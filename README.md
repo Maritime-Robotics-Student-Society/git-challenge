@@ -45,3 +45,4 @@ Now it's time to send your change to Github. Get a prompt inside the
 - Tony
 - Pier
 - Alvaro
+- Alex
